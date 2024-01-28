@@ -4,22 +4,24 @@ This repository contains the source code for my personal, built using HTML. The 
 ## Getting Started
 To view the website, clone the repository and open the index.html file in a web browser.
 
-## Copy code
+### Copy code
 $ git clone https://github.com/peterboro/PersonalWeb.git
 $ open PersonalWeb/index.html
 
-## Prerequisites
+#### Prerequisites
 No special software or tools are required to view the website, just a modern web browser.
 
-## Building
+##### Building
 The website is built using only HTML, so there's no building or compilation process. Simply open the index.html file in a web browser to view the website.
 
-## Contributing
+###### Contributing
 I welcome contributions to the website! If you have any suggestions or ideas for new features, please open an issue or submit a pull request.
 
-### License
-This project is licensed under the MIT License - see the LICENSE for more details. 
+###### License
+This project is licensed under the MIT [License](LICENSE) - see the LICENSE for more details. 
 
 
-### Acknowledgments
+###### Acknowledgments
 W3Schools - for providing reference material and examples for HTML.
+
+
